@@ -1,8 +1,4 @@
-Here is your updated documentation in proper **Markdown (`.md`) format**:
 
----
-
-````md
 # ✅ Terraform-EC2-instance-with-Keypair-and-User-Data
 
 This project provisions an EC2 instance using Terraform with the following features:
@@ -150,7 +146,7 @@ terraform plan
 ```
 
 📸 Screenshot:
-![terraform-plan](https://github.com/user-attachments/assets/terraform-plan.png)
+<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/d02b6ac8-de30-4111-b2c4-68c82d948d12" />
 
 ---
 
@@ -185,6 +181,8 @@ terraform destroy
 ```
 
 📸 Screenshot:
-![terraform-destroy](https://github.com/user-attachments/assets/terraform-destroy.png)
+<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/79cf4bd4-c201-4574-9f05-01b2fb9afcf1" />
+<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/209d2516-a4d9-448c-82e0-2922f3bf2c14" />
+
 
 ---
